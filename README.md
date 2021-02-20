@@ -1,16 +1,16 @@
 # system-design-reading
 
-Main resources:
-https://www.educative.io/courses/grokking-the-system-design-interview
-https://github.com/donnemartin/system-design-primer/tree/master/solutions/system_design
+## Main resources:
+https://www.educative.io/courses/grokking-the-system-design-interview <br/>
+https://github.com/donnemartin/system-design-primer/tree/master/solutions/system_design <br/>
 
-Reviewed:
-Tiny url - https://www.educative.io/courses/grokking-the-system-design-interview/m2ygV4E81AR
-Pastebin - https://www.educative.io/courses/grokking-the-system-design-interview/3jyvQ3pg6KO
-Instagram - https://www.educative.io/courses/grokking-the-system-design-interview/m2yDVZnQ8lG
-Dropbox - https://www.educative.io/courses/grokking-the-system-design-interview/m22Gymjp4mG
-Fb messenger - https://www.educative.io/courses/grokking-the-system-design-interview/B8R22v0wqJo
-Mint - https://github.com/donnemartin/system-design-primer/tree/master/solutions/system_design/mint
+## Reviewed:
+Tiny url - https://www.educative.io/courses/grokking-the-system-design-interview/m2ygV4E81AR <br/>
+Pastebin - https://www.educative.io/courses/grokking-the-system-design-interview/3jyvQ3pg6KO <br/>
+Instagram - https://www.educative.io/courses/grokking-the-system-design-interview/m2yDVZnQ8lG <br/>
+Dropbox - https://www.educative.io/courses/grokking-the-system-design-interview/m22Gymjp4mG <br/>
+Fb messenger - https://www.educative.io/courses/grokking-the-system-design-interview/B8R22v0wqJo <br/>
+Mint - https://github.com/donnemartin/system-design-primer/tree/master/solutions/system_design/mint <br/>
 
-To do:
+## To do:
 Add notes taken

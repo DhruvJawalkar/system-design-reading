@@ -72,7 +72,7 @@ description -
   }
     
 
-//HLD, Scaling, Bottlenecks
+## HLD, Scaling, Bottlenecks
 client    web server          LB     [application server]  Newsfeed Service                             LB      database                                                   LB   s3
           - uploadVideo                                     -Offline daily bulk task, pre compute top 10       - shard Posts/ Comments table acc to recency/location            - upload video acc to region return url
           - followUser
@@ -81,7 +81,6 @@ client    web server          LB     [application server]  Newsfeed Service     
           - viewUserProfile     
 
 
-//Security and Caching
+## Security and Caching
 client    web server  LB   Redis/caching (20%)    application server  Newsfeed Service    LB       database    LB     s3
                           - Cache feed, posts for hot users among DAU
-                          
